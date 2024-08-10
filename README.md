@@ -31,3 +31,7 @@ Tal como se menciona en la sección de gráficas, hay una pequeña diferencia en
 y las que se presentó por el grupo "INTERSECTA": la fuente utilizada para el texto en la mayoría de ellas.
 En este código se utiliza la fuente por default. Sin embargo, en la versión presentada por "INTERSECTA", se utilizó
 la fuente "Montserrat", a petición de las arquitectas. Los datos son los mismos, es una mera cuestión de estilo.
+
+Para conveniencia de quienes visiten este repositorio, se incluyó una carpeta llamada "Gráficas", que contiene
+todas las gráficas producidas por el código. Mismas que, salvo por la fuente "Montserrat", son exactamente las mismas
+que presentaron ellas. 
