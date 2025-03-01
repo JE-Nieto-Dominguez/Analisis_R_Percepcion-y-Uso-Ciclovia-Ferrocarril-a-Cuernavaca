@@ -29,9 +29,11 @@ las guardará en el directorio de trabajo establecido.
 Cada análisis puede ser corrido por separado, pero es necesario que se usen las secciones 2 a 4.
 
 Tal como se menciona en la sección de gráficas, hay una pequeña diferencia entre las que se crean con este código
-y las que se presentó por el grupo "INTERSECTA": la fuente utilizada para el texto en la mayoría de ellas.
-En este código se utiliza la fuente por default. Sin embargo, en la versión presentada por "INTERSECTA", se utilizó
-la fuente "Montserrat", a petición de las arquitectas. Los datos son los mismos, es una mera cuestión de estilo.
+y las que se presentó por el grupo "Intersecta - Laboratorio de Arquitectura y Urbanismo":
+la fuente utilizada para el texto en la mayoría de ellas.
+En este código se utiliza la fuente por default. Sin embargo, en la versión presentada por "Intersecta -
+Laboratorio de Arquitectura y Urbanismo", se utilizó la fuente "Montserrat", a petición de las arquitectas.
+Los datos son los mismos, es una mera cuestión de estilo.
 
 Para conveniencia de quienes visiten este repositorio, se incluyó una carpeta llamada "Gráficas", que contiene
 todas las gráficas producidas por el código. Mismas que, salvo por la fuente "Montserrat", son exactamente las mismas
