@@ -2,7 +2,7 @@ El presente análisis fue realizado en junio del 2024 por el Lic. José Eduardo 
 (https://orcid.org/0009-0003-9136-1839)
 
 Es parte de la participación de "Intersecta - Laboratorio de Arquitectura y Urbanismo" para el concurso
-"Mejores Calles para México 2024" del Institute for Transportation and Development Policy (ITDP), 
+“Mejores Calles Para México 2da. Edición” del Institute for Transportation and Development Policy (ITDP), 
 en colaboración con la "Unidad Proletaria Pedregal San Nicolás A.C." (UPPESAN).
 (https://nuevaconstituyente.org/uppesan/)
 
